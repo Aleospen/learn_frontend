@@ -20,3 +20,5 @@ alert(`Your name - ${yourName}`)
 let userNumb = prompt('Введите число', '')
 const result = userNumb * userNumb
 alert(`Квадрат числа - ${userNumb}, равен - ${result}`)
+
+alert(+true)
