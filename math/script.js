@@ -31,6 +31,8 @@ let l = prompt('Первое число?', 1)
 let m = prompt('Второе число?', 2)
 alert(+l + +m)
 
+// Операторы сравнения
+
 let machine = 'Каток'
 let place = 'каток'
 console.log(machine < place) // true
